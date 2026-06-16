@@ -20,4 +20,3 @@ for remaining in range(seconds, 0, -1):
     time.sleep(1)
 
 print("\nTime's up!! Take a break or move on to next task.")
-print("\a")
