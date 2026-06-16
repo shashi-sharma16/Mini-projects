@@ -13,4 +13,3 @@ A simple Python program that generates stylish social media bios for platforms l
 
 * Python
 * Textwrap module
-
