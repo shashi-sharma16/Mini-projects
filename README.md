@@ -24,5 +24,8 @@ Python Mini Projects
     ├── CSV Powered Contact Book
     ├── Student Marks Analyzer
     ├── Personal Movie Tracker with JSON
+    ├── CSV to JSON Converter
+    ├── JSON to CSV Converter
     └── Real-Time Weather App
 ```
+
