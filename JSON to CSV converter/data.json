@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Shashi Sharma",
+        "email": "shashi@gmail.com",
+        "location": "Mumbai",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "name": "Rahul Verma",
+        "email": "rahul123@gmail.com",
+        "location": "Delhi",
+        "is_active": false
+    },
+    {
+        "id": 3,
+        "name": "Priya Patel",
+        "email": "priyaptl@gmail.com",
+        "location": "Pune",
+        "is_active": true
+    },
+    {
+        "id": 4,
+        "name": "Amit Singh",
+        "email": "amit@yahoo.in",
+        "location": "Bangalore",
+        "is_active": true
+    },
+    {
+        "id": 5,
+        "name": "Neha Gupta",
+        "email": "nehagpta@gmail.com",
+        "location": "Hyderabad",
+        "is_active": false
+    }
+]
