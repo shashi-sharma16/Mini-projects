@@ -26,6 +26,7 @@ Python Mini Projects
     ├── Personal Movie Tracker with JSON
     ├── CSV to JSON Converter
     ├── JSON to CSV Converter
+    ├── JSON Flattener
     └── Real-Time Weather App
 ```
 
