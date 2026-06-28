@@ -27,6 +27,8 @@ Python Mini Projects
     ├── CSV to JSON Converter
     ├── JSON to CSV Converter
     ├── JSON Flattener
+    ├── Offline Credential Manager
+    ├── Offline Notes Locker
     └── Real-Time Weather App
 ```
 
