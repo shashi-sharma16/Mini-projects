@@ -28,7 +28,7 @@ Hacker News Top 20 Scraper is a Python-based web scraping project that retrieves
 ## Project Structure
 
 ```text
-Hacker-News-Top-Posts/
+Hacker-News-Top-Posts-Scrapper/
 ├── scraper.py
 ├── hn_top20.csv
 ├── README.md
