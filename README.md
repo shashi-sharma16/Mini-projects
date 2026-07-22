@@ -32,5 +32,6 @@ Python Mini Projects
 │   └── Real-Time Weather App
 │
 └── 🌐 Web Scraping
-    └── Hacker News Top Posts Scraper
+    ├── Hacker News Top Posts Scraper
+    └── Scrape Books to Scrape
 ```
