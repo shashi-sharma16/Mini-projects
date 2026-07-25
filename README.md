@@ -34,5 +34,5 @@ Python Mini Projects
 └── 🌐 Web Scraping
     ├── Hacker News Top Posts Scraper
     ├── Scrape Books to Scrape
-    └── Raw Image Downloader
-```
+    ├── Raw Image Downloader
+    └── Cover Image Downloader using wget
